@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Madrid"],
+    "answer": "Paris"
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "options": ["Newton", "Einstein", "Galileo", "Tesla"],
+    "answer": "Einstein"
+  }
+]
